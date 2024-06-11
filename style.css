@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #333;
+    margin: 0;
+    color: #fff;
+}
+
+.game-container {
+    border: 2px solid #fff;
+}
+
+canvas {
+    background-color: #000;
+}
